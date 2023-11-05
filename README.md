@@ -48,8 +48,3 @@ python3 vulnerable-flask-app.py
 
 <img src="https://github.com/anil-yelken/Vulnerable-Flask-App/blob/main/vulnerable-flask-app.jpg">
 
-## Contact
-
-https://twitter.com/anilyelken06
-
-https://medium.com/@anilyelken
